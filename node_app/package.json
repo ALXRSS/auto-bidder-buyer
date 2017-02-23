@@ -1,0 +1,7 @@
+{
+    "name": "node_app",
+    "version": "0.1.0",
+    "dependencies": {
+        "fut-api": "0.3.1"
+    }
+}
